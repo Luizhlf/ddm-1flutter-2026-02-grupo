@@ -85,7 +85,7 @@ class _TelaReceitasState extends State<TelaReceitas> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pesquisa de Receitas'),
+        title: const Text('Receitas - Yohans & Luiz Henrique'),
         centerTitle: true,
         backgroundColor: Theme.of(context).colorScheme.primaryContainer,
       ),
