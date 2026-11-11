@@ -1,5 +1,11 @@
+// ============================================================================
+// TP2 - Aplicativo de Receitas
+// Autores: Yohans Silva Bezerra & Luiz Henrique dos Passos Silva
+// ============================================================================
+
 import 'package:flutter/material.dart';
 import 'screens/tela_receitas.dart';
+
 
 void main() {
   runApp(const MyApp());
